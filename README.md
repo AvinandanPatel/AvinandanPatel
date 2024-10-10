@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hi there, I'm Avinandan Patel 👋
 
-I’m a data enthusiast passionate about transforming raw data into actionable insights. Currently exploring data analysis, machine learning, and visualization.
+I’m a data enthusiast passionate about transforming raw data into actionable insights. Currently exploring data analysis, visualization, machine learning, and  deep learning.
 
 ### Skills & Tools
 - **Programming:** Python, R, SQL
