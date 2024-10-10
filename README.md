@@ -26,7 +26,7 @@ I’m a data enthusiast passionate about transforming raw data into actionable i
 ![Numpy](https://img.shields.io/badge/SVM-blue)
 ![Matplotlib](https://img.shields.io/badge/DecisionTree-green)
 ![Seaborn](https://img.shields.io/badge/RandomForest-yellow)
-![Plotly](https://img.shields.io/badge/Bagging-orange)
+![Plotly](https://img.shields.io/badge/Bagging-SteelBlue)
 ![Jupyter](https://img.shields.io/badge/Boosting-red)
 
 ### Currently Learning
