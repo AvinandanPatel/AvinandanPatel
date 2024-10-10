@@ -21,13 +21,13 @@ I’m a data enthusiast passionate about transforming raw data into actionable i
 ![Plotly](https://img.shields.io/badge/Plotly-5.9-cyan)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-![Python](https://img.shields.io/badge/LinearRegression-gold)
-![Pandas](https://img.shields.io/badge/LogisticRegression-orange)
-![Numpy](https://img.shields.io/badge/SVM-violet)
-![Matplotlib](https://img.shields.io/badge/DecisionTree-skyblue)
-![Seaborn](https://img.shields.io/badge/RandomForest-brown)
-![Plotly](https://img.shields.io/badge/Bagging-cyan)
-![Jupyter](https://img.shields.io/badge/Boosting-orange)
+![Python](https://img.shields.io/badge/LinearRegression-violet)
+![Pandas](https://img.shields.io/badge/LogisticRegression-indigo)
+![Numpy](https://img.shields.io/badge/SVM-blue)
+![Matplotlib](https://img.shields.io/badge/DecisionTree-green)
+![Seaborn](https://img.shields.io/badge/RandomForest-yellow)
+![Plotly](https://img.shields.io/badge/Bagging-orange)
+![Jupyter](https://img.shields.io/badge/Boosting-red)
 
 ### Currently Learning
 - Deep learning with TensorFlow
