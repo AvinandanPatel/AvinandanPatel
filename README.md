@@ -22,7 +22,7 @@ I’m a data enthusiast passionate about transforming raw data into actionable i
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ![Python](https://img.shields.io/badge/LinearRegression-gold)
-![Pandas](https://img.shields.io/badge/LogisticRegression-gold)
+![Pandas](https://img.shields.io/badge/LogisticRegression-orange)
 ![Numpy](https://img.shields.io/badge/SVM-violet)
 ![Matplotlib](https://img.shields.io/badge/DecisionTree-skyblue)
 ![Seaborn](https://img.shields.io/badge/RandomForest-brown)
