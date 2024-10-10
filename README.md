@@ -15,8 +15,10 @@ I’m a data enthusiast passionate about transforming raw data into actionable i
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2-green)
-![Pandas](https://img.shields.io/badge/Numpy-1.26-violet)
+![Numpy](https://img.shields.io/badge/Numpy-1.26-violet)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9-skyblue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13-skyblue)
+![Plotly](https://img.shields.io/badge/Plotly-0.12-skyblue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 
