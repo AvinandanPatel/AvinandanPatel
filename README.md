@@ -14,7 +14,8 @@ I’m a data enthusiast passionate about transforming raw data into actionable i
 - **Machine Learning:** Linear Regression, Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, Bagging, Boosting
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.2-green)
+![Pandas](https://img.shields.io/badge/Pandas-2.2-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13-skyblue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 
