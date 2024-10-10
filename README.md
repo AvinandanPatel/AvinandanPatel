@@ -21,7 +21,7 @@ I’m a data enthusiast passionate about transforming raw data into actionable i
 ![Plotly](https://img.shields.io/badge/Plotly-5.9-cyan)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-![Python](https://img.shields.io/badge/LinearRegression-3.8-blue)
+![Python](https://img.shields.io/badge/LinearRegression-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2-green)
 ![Numpy](https://img.shields.io/badge/Numpy-1.26-violet)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9-skyblue)
